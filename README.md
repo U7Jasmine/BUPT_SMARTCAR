@@ -97,7 +97,7 @@ void main()
 
 
 
-### PWM的体现（均为笔者大胆猜测【因为笔者一点单片机不会qwq】）
+### PWM的体现
 
 ~~~c(前进代码)
 for (j = 0; j < 900; j++)  //前进用PWM是因为消除左右轮的差速故0110为双轮前进(没有可以不用)
@@ -622,6 +622,6 @@ void main()
 
 ------
 
-本文由markdown编写，本着继承的原则，希望师弟师妹们对本文进行改进完善，本文参考[北京邮电大学小学期代码][https://github.com/YasenWang/BUPT-Smart-Car]
+本文由markdown编写，本着继承的原则，希望师弟师妹们对本文进行改进完善，本文参考[北京邮电大学小学期代码](https://github.com/YasenWang/BUPT-Smart-Car)
 
-本文已放置github以便师弟师妹更新。以下是项目链接[电子电工综合实训小车]][https://github.com/U7Jasmine/BUPT_SMARTCAR]
+本文已放置github以便师弟师妹更新。以下是项目链接[电子电工综合实训小车](https://github.com/U7Jasmine/BUPT_SMARTCAR)
