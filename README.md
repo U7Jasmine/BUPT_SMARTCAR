@@ -622,6 +622,6 @@ void main()
 
 ------
 
-本文由markdown编写，本着继承的原则，希望师弟师妹们对本文进行改进完善，本文参考[北京邮电大学小学期代码](https://github.com/YasenWang/BUPT-Smart-Car)
-
+本文由markdown编写，本着继承的原则，希望师弟师妹们对本文进行改进完善.
+本文参考[北京邮电大学小学期代码](https://github.com/YasenWang/BUPT-Smart-Car)
 本文已放置github以便师弟师妹更新。以下是项目链接[电子电工综合实训小车](https://github.com/U7Jasmine/BUPT_SMARTCAR)
